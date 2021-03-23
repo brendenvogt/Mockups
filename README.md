@@ -14,6 +14,12 @@ A collection of mockups and templates for various devices, game styles, apps and
     <img src="Resources/MobilePortraitGameTemplate/Result.webp" alt="image" width="400"/>
 </span>
 
-## Landscape
+## Landscape Mobile Game
 
-
+<span>
+    <img src="Resources/LandscapeMobileGameTemplate/Splash.webp" alt="image" width="400"/>
+    <img src="Resources/LandscapeMobileGameTemplate/Title.webp" alt="image" width="400"/>
+    <img src="Resources/LandscapeMobileGameTemplate/Home.webp" alt="image" width="400"/>
+    <img src="Resources/LandscapeMobileGameTemplate/Play.webp" alt="image" width="400"/>
+    <img src="Resources/LandscapeMobileGameTemplate/Result.webp" alt="image" width="400"/>
+</span>
